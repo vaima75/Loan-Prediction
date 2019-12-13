@@ -12,7 +12,7 @@ The data given is of credit records of individuals with certain attributes. Plea
 #### Data Dictionary
 
 | SNo.	| Variable	| Definition	|
-|:------------- |:------------- |:-------------:|
+|:------------- |:------------- |:------------- |
 | a. | serial number	| unique identification key	|
 | b. | account_info	| Categorized details of existing accounts of the individuals. The balance of money in account provided is stated by this variable	|
 | c. | duration_month	| Duration in months for which the credit is existing	|
