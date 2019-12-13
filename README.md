@@ -10,6 +10,7 @@ YES BANK has launched DATATHON, which invites participants from across the world
 The data given is of credit records of individuals with certain attributes. Please go through following to understand the variables involved:
 
 #### Data Dictionary
+
 | SNo.	| Variable	| Definition	|
 |:------------- |:------------- |:-------------:|
 | a. | serial number	| unique identification key	|
@@ -34,9 +35,8 @@ The data given is of credit records of individuals with certain attributes. Plea
 | t. | telephone	| Signifies if the individual has a telephone or not	|
 | u. | foreigner	| Signifies if the individual is a foreigner or not (considering the country of residence of the bank)	|
 
-
-
 #### Data Details
+
 **b.**:
 
 - A11 signifies 0 (excluding 0) or lesser amount credited to current checking account. (Amounts       are in units of certain currency)
