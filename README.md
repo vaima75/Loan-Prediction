@@ -14,16 +14,16 @@ The data given is of credit records of individuals with certain attributes. Plea
 | SNo.	| Variable	| Definition	|
 |:------------- |:------------- |:------------- |
 | a. | serial number	| unique identification key	|
-| b. | account_info	| Categorized details of existing accounts of the individuals. The balance of money in account provided is stated by this variable	|
+| b. | account_info	| Categorized details of existing accounts of the individuals.|
 | c. | duration_month	| Duration in months for which the credit is existing	|
-| d. | credit_history	| This categorical variable signifies the credit history of the individual who has taken the loan	|
+| d. | credit_history	| This categorical variable signifies the credit history of the individual who took loan	|
 | e. | purpose	| This variable signifies why the loan was taken	|
-| f. | credit_amount	| The numerical variable signifies the amount credited to the individual (in units of a certain currency)	|
-| g. | savings_account	| This variable signifies details of the amount present in savings account of the individual	|
+| f. | credit_amount	| The numerical variable signifies the amount credited to the individual	|
+| g. | savings_account	| This variable signifies details of amount present in savings account of the individual	|
 | h. | employment_st	| Categorical variable that signifies the employment status of everyone who has been alloted loans	|
-| i. | poi	| This numerical variable signifies what percentage of disposable income is spent on loan interest amount	|
+| i. | poi	| This numerical variable signifies what percentage of disposable income spent on loan interest amount	|
 | j. | personal_status	| This categorical variable signifies the personal status of the individual	|
-| k. | gurantors	| Categorical variable which signifies if any other individual is involved with an individual loan case	|
+| k. | gurantors	| Categorical variable which signifies if any other borrower involved with an individual loan	|
 | l. | resident_since	| Numerical variable that signifies for how many years the applicant has been a resident	|
 | m. | property_type	| This qualitative variable defines the property holding information of the individual	|
 | n. | age	| Numerical variable that signifies age in number of years	|
@@ -33,7 +33,7 @@ The data given is of credit records of individuals with certain attributes. Plea
 | r. | job_type	| Signifies the employment status of the person	|
 | s. | liables	| Signifies number of persons dependent on the applicant	|
 | t. | telephone	| Signifies if the individual has a telephone or not	|
-| u. | foreigner	| Signifies if the individual is a foreigner or not (considering the country of residence of the bank)	|
+| u. | foreigner	| Signifies if the individual is a foreigner or not (considering residence country of the bank)	|
 
 #### Data Details
 
