@@ -11,9 +11,9 @@ The data given is of credit records of individuals with certain attributes. Plea
 
 #### Data Dictionary
 | SNo.	| Variable	| Definition	|
-| ------------- |:------------- |:-------------:|
-| a. | serial number	| unique identification key |
-| b. |account_info	| Categorized details of existing accounts of the individuals. The balance of money in account provided is stated by this variable	|
+|:------------- |:------------- |:-------------:|
+| a. | serial number	| unique identification key	|
+| b. | account_info	| Categorized details of existing accounts of the individuals. The balance of money in account provided is stated by this variable	|
 | c. | duration_month	| Duration in months for which the credit is existing	|
 | d. | credit_history	| This categorical variable signifies the credit history of the individual who has taken the loan	|
 | e. | purpose	| This variable signifies why the loan was taken	|
@@ -33,9 +33,7 @@ The data given is of credit records of individuals with certain attributes. Plea
 | s. | liables	| Signifies number of persons dependent on the applicant	|
 | t. | telephone	| Signifies if the individual has a telephone or not	|
 | u. | foreigner	| Signifies if the individual is a foreigner or not (considering the country of residence of the bank)	|
-| v. | is_click	| 0 - no click, 1 - click	|
-| w. | is_click	| 0 - no click, 1 - click	|
-| x. | is_click	| 0 - no click, 1 - click	|
+
 
 
 #### Data Details
