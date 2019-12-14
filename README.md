@@ -134,14 +134,15 @@ The data given is of credit records of individuals with certain attributes. Plea
 - A201 signifies that the individual is a foreigner
 - A202  signifies that the individual is a resident
 
-
 ### Objective
 
-As per predictions in the prediction problem. The objective of this problem is to predict the cluster number of serial number variable. 
-Cluster number 1 (Correct value is 1) : When the value of credit_amount is between 4000 and 20000 
-Cluster number 2 (Correct value is 2): When the value of credit_amount is between 4000 and 1500 
-Cluster number 3 (Correct value is 3) : When the value of credit_amount is less than 1500
+As per predictions in the prediction problem. The objective of this problem is to predict the cluster number of serial number variable. Below are the following:
+
+- Cluster number 1 (Correct value is 1) : When the value of credit_amount is between 4000 and 20000 
+- Cluster number 2 (Correct value is 2): When the value of credit_amount is between 4000 and 1500 
+- Cluster number 3 (Correct value is 3) : When the value of credit_amount is less than 1500
 
 ### Evaluation Metric and Algorithm
-Accuracy
-normalization_constant:100000
+
+- Accuracy
+- Normalization_constant:100000
